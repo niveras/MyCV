@@ -1,7 +1,7 @@
 
 ![Image of Nikos](NikosDoulaveras/MyCV/PB250057l2l.jpg)
 
-<img src="/mycv/my-logo-10.png"  /></p>
+<img src="https://github.com/NikosDoulaveras/MyCV/PB250057l2l.jpg"  /></p>
 
 
 Nikos Doulaveras
