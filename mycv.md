@@ -20,15 +20,9 @@ Date of birth: 1977-11-7         Nationality: Greece
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**IT and Privacy Project Consultant:**
 
-
-        
-
-            
-//  Experience //
-        
-_ IT and Privacy Project Consultant _
+_  Master S.A. _
 Master S.A. 
 Neo Heracleion 
 2018-06 - Currently
