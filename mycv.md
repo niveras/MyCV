@@ -2,9 +2,7 @@
 ![Image of Nikos](https://github.com/NikosDoulaveras/MyCV/PB250057l2l.jpg) 
 
 
-
-<img src="https://github.com/NikosDoulaveras/MyCV/PB250057l2l.jpg"  />
-
+![Image of Nikos](PB250057l2l.jpg "Nikos Doulaveras")
 
 Nikos Doulaveras
 ============
