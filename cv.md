@@ -2,10 +2,6 @@
 
 ![Image of Nikos](https://github.com/NikosDoulaveras/MyCV/edit/main/PB250057l2l.jpg)
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
 
 Nikos Doulaveras
 ============
@@ -34,7 +30,7 @@ links:
 
 Also with a short description.
 
-Education
+# Education
 ---------
 
 2010-2014 (expected)
