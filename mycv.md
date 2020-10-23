@@ -2,7 +2,6 @@
 ![Image of Nikos](https://github.com/NikosDoulaveras/MyCV/edit/main/PB250057l2l.jpg)
 
 
- >  If you can dream it, you can code it #
 
 
 Nikos Doulaveras
@@ -18,7 +17,8 @@ Greece                                +30 6947423178
 Date of birth: 1977-11-7         Nationality: Greece 
 -------------------     ----------------------------
 
-
+ >  If you can connect, then you can do everything! 
+ 
 
 # Experience
 ----------
