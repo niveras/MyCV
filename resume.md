@@ -78,12 +78,14 @@ Athens, `2000`
 • GDPR Certification DPO 
 
 
+
 # Languages
-------------
+-------------
         
 • English, Advanced
             
 • German, Advanced 
+
 
 
 # Objectives 
