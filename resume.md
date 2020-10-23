@@ -69,30 +69,30 @@ Athens, `2000`
 # Skills
 ----------
        
-• CMS development (Wordpress, Joomla)
+*  CMS development (Wordpress, Joomla)
             
-• Arduino automation
+*  Arduino automation
             
-• project management
+*  project management
             
-• GDPR Certification DPO 
+*  GDPR Certification DPO
 
 
 
 # Languages
 -------------
         
-• English, Advanced
+*  English, Advanced
             
-• German, Advanced 
+*  German, Advanced 
 
 
 
 # Objectives 
 -------------
        
--Present proposals that are actionable
--Project management
--GDPR readiness
--Security as a priviledge
--HCI advancements  
+* Present proposals that are actionable
+* Project management
+* GDPR readiness
+* Security as a priviledge
+* HCI advancements  
