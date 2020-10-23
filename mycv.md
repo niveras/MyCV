@@ -5,7 +5,7 @@
 Nikos Doulaveras
 ============
 
-Occupation: IT and Privacy Consulant 
+Occupation: IT and Privacy Project Consulant 
 -----------------------------------
 
 -------------------     ----------------------------
@@ -15,7 +15,6 @@ Greece                                +30 6947423178
 Date of birth: 1977-11-7         Nationality: Greece 
 -------------------     ----------------------------
 
-Occupation: IT and Privacy Consulant 
 
 
 Experience
