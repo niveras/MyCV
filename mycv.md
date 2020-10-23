@@ -28,19 +28,19 @@ Neo Heracleion
 
 
 **Communication and Digital Marketing:**
-_ Freelancer  _
+* Freelancer 
 Athens 
 2010-11 - 2018-05
 
 
 **Research Executive:**            
-_ MRB Hellas SA  _
+* MRB Hellas SA  
 Ampelokipoi, Athens 
 2007-07 - 2010-10
 
 
 **Account Executive Advertising Projects:**                
-_ Spot JWT Athens  _
+* Spot JWT Athens  
 Marousi- Athens 
 2004-05 - 2016-12
 
@@ -48,18 +48,18 @@ Marousi- Athens
 Education
 ----------
 **Computer Science:**           
-_ Hellenic Open University  _
+* Hellenic Open University  
 Patras, 2017
 
 
 **Political Communication and New Technologies:**               
-_ Communication and Mass Media- MA- Postgraduate _
+* Communication and Mass Media- MA- Postgraduate 
 National and Kapoditristrian University of Athens/ MA Program 
 Athens, 2003
 
 
 **Communication and Mass Media:**               
-_ Ptychion  _
+* Ptychion  
 National and Kapodistrian University of Athens 
 Athens, 2000
 
