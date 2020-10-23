@@ -1,31 +1,22 @@
 
 
+![Image of Nikos](https://github.com/NikosDoulaveras/MyCV/edit/main/PB250057l2l.jpg)
 
-Johnny Coder
+<div id="webaddress">
+<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+</div>
+
+Nikos Doulaveras
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+1 Hippocratous Str.       nikos.doulaveras@gmail.com
+Athens 11472                          
+Greece                                +30 6947423178
 -------------------     ----------------------------
 
-Education
----------
-
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
-
-Experience
+# Experience
 ----------
 
 **Your Most Recent Work Experience:**
@@ -42,6 +33,22 @@ links:
 **That Other Job You Had**
 
 Also with a short description.
+
+Education
+---------
+
+2010-2014 (expected)
+:   **PhD, Computer Science**; Awesome University (MyTown)
+
+    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
+     Estimation Problem*
+
+2007-2010
+:   **BSc, Computer Science and Electrical Engineering**; University of
+    HomeTown (HomeTown)
+
+    *Minor: Awesomeology*
+
 
 Technical Experience
 --------------------
