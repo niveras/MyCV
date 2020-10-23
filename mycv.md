@@ -84,7 +84,7 @@ Athens, 2000
 • German, Advanced 
 
 
- Objectives 
+# Objectives 
 ----------
        
 -Present proposals that are actionable
