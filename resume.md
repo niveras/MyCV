@@ -66,6 +66,14 @@ National and Kapodistrian University of Athens
 Athens, `2000`
 
 
+# Languages
+-------------
+        
+*  English, Advanced
+            
+*  German, Advanced 
+
+
 # Skills
 ----------
        
@@ -76,16 +84,6 @@ Athens, `2000`
 *  project management
             
 *  GDPR Certification DPO
-
-
-
-# Languages
--------------
-        
-*  English, Advanced
-            
-*  German, Advanced 
-
 
 
 # Objectives 
