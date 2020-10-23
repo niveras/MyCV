@@ -77,7 +77,7 @@ Athens, `2000`
             
 • GDPR Certification DPO 
 
- 
+
 # Languages
 ------------
         
@@ -87,7 +87,7 @@ Athens, `2000`
 
 
 # Objectives 
-----------
+-------------
        
 -Present proposals that are actionable
 -Project management
