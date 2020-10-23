@@ -2,7 +2,7 @@
 ![Image of Nikos](https://github.com/NikosDoulaveras/MyCV/edit/main/PB250057l2l.jpg)
 
 
-# >  If you can dream it, you can code it #
+ >  If you can dream it, you can code it #
 
 
 Nikos Doulaveras
