@@ -66,12 +66,29 @@ National and Kapodistrian University of Athens
 Athens, `2000`
 
 
+
 # Languages
--------------
-        
+----------
+
 *  English, Advanced
             
 *  German, Advanced 
+
+
+
+# Objectives 
+----------
+       
+* Present proposals that are actionable
+
+* Project management
+
+* GDPR readiness
+
+* Security as a priviledge
+
+* HCI advancements  
+
 
 
 # Skills
@@ -84,13 +101,3 @@ Athens, `2000`
 *  project management
             
 *  GDPR Certification DPO
-
-
-# Objectives 
--------------
-       
-* Present proposals that are actionable
-* Project management
-* GDPR readiness
-* Security as a priviledge
-* HCI advancements  
