@@ -9,12 +9,12 @@ Nikos Doulaveras
 Occupation: IT and Privacy Project Consultant 
 -----------------------------------
 
--------------------     ----------------------------
+
 1 Hippocratous Str.       nikos.doulaveras@gmail.com
 Athens 11472        linkedin.com/in/nikosdoulaveras/ 
 Greece                                +30 6947423178
 Date of birth: 1977-11-7         Nationality: Greece 
--------------------     ----------------------------
+  
 
  >  Seamless for IOT can be observable in terms of progress.  
  
@@ -78,7 +78,7 @@ Athens, `2000`
 • GDPR Certification DPO 
 
  
- # Languages
+# Languages
 ----------
         
 • English, Advanced
