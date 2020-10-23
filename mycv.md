@@ -17,7 +17,7 @@ Greece                                +30 6947423178
 Date of birth: 1977-11-7         Nationality: Greece 
 -------------------     ----------------------------
 
- >  If you can connect, then you can do everything! 
+ >  Seamless for IOT can be observable in terms of progress.  
  
 
 # Experience
