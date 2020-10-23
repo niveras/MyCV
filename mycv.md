@@ -17,7 +17,7 @@ Date of birth: 1977-11-7         Nationality: Greece
 
 
 
-Experience
+# Experience
 ----------
 
 **IT and Privacy Project Consultant:**
@@ -45,7 +45,7 @@ Marousi- Athens
 2004-05 - 2016-12
 
             
-Education
+# Education
 ----------
 **Computer Science:**           
 * Hellenic Open University  
@@ -64,7 +64,7 @@ National and Kapodistrian University of Athens
 Athens, 2000
 
 
-Skills
+# Skills
 ----------
        
 • CMS development (Wordpress, Joomla)
@@ -76,7 +76,7 @@ Skills
 • GDPR Certification DPO 
 
  
- Languages
+ # Languages
 ----------
         
 • English, Advanced
