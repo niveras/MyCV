@@ -21,72 +21,76 @@ Experience
 ----------
 
 **IT and Privacy Project Consultant:**
-
 _  Master S.A. _
 Master S.A. 
 Neo Heracleion 
 2018-06 - Currently
 
-            
-_ Communication and Digital Marketing _
-Free lance 
+
+**Communication and Digital Marketing:**
+_ Freelancer  _
 Athens 
 2010-11 - 2018-05
 
-            
-_ Research Executive _
-MRB Hellas SA 
+
+**Research Executive:**            
+_ MRB Hellas SA  _
 Ampelokipoi, Athens 
 2007-07 - 2010-10
 
-            
-_ Account Executive Advertising Projects _
-Spot JWT Athens 
+
+**Account Executive Advertising Projects:**                
+_ Spot JWT Athens  _
 Marousi- Athens 
 2004-05 - 2016-12
 
             
-//  Education //
-        
-_ Computer Science _
-Hellenic Open University 
+Education
+----------
+**Computer Science:**           
+_ Hellenic Open University  _
 Patras, 2017
 
-            
-_ Communication and Mass Media- Political Communication and New Technologies _
+
+**Political Communication and New Technologies:**               
+_ Communication and Mass Media- MA- Postgraduate _
 National and Kapoditristrian University of Athens/ MA Program 
 Athens, 2003
 
-            
-_ Communication and Mass Media _
-National and Kapodistrian University of Athens/ Ptychion 
+
+**Communication and Mass Media:**               
+_ Ptychion  _
+National and Kapodistrian University of Athens 
 Athens, 2000
 
-            
-//  Skills //
-        
+
+Skills
+----------
+_        
 • CMS development (Wordpress, Joomla)
             
 • Arduino automation
             
 • project management
             
-• GDPR Certification DPO
+• GDPR Certification DPO _
 
-            
-//  Languages //
-        
+ 
+ Languages
+----------
+_        
 • English, Advanced
             
-• German, Advanced
+• German, Advanced _
 
 
-//  Objectives //
-        
+ Objectives 
+----------
+ _        
 -Present proposals that are actionable
 -Project management
 -GDPR readiness
 -Security as a priviledge
--HCI advancements
+-HCI advancements  _
             
             
