@@ -7,7 +7,7 @@
 Nikos Doulaveras
 ============
 
-Occupation: IT and Privacy Project Consulant 
+Occupation: IT and Privacy Project Consultant 
 -----------------------------------
 
 -------------------     ----------------------------
