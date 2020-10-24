@@ -1,4 +1,3 @@
-
 ![Image of Nikos](https://github.com/NikosDoulaveras/MyCV/PB250057l2l.jpg) 
 
 
@@ -10,12 +9,12 @@ Nikos Doulaveras
 Occupation: IT and Privacy Project Consultant 
 -----------------------------------
 
--------------------     ----------------------------
+
 1 Hippocratous Str.       nikos.doulaveras@gmail.com
 Athens 11472        linkedin.com/in/nikosdoulaveras/ 
 Greece                                +30 6947423178
 Date of birth: 1977-11-7         Nationality: Greece 
--------------------     -------
+  
 
  >  Seamless for IOT can be observable in terms of progress.  
  
@@ -67,31 +66,38 @@ National and Kapodistrian University of Athens
 Athens, `2000`
 
 
-# Skills
-----------
-       
-• CMS development (Wordpress, Joomla)
-            
-• Arduino automation
-            
-• project management
-            
-• GDPR Certification DPO 
 
- 
- # Languages
+# Languages
 ----------
-        
-• English, Advanced
+
+*  English, Advanced
             
-• German, Advanced 
+*  German, Advanced 
+
 
 
 # Objectives 
 ----------
        
--Present proposals that are actionable
--Project management
--GDPR readiness
--Security as a priviledge
--HCI advancements  
+* Present proposals that are actionable
+
+* Project management
+
+* GDPR readiness
+
+* Security as a priviledge
+
+* HCI advancements  
+
+
+
+# Skills
+----------
+       
+*  CMS development (Wordpress, Joomla)
+            
+*  Arduino automation
+            
+*  project management
+            
+*  GDPR Certification DPO
