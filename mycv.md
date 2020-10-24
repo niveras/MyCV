@@ -15,7 +15,7 @@ Occupation: IT and Privacy Project Consultant
 Athens 11472        linkedin.com/in/nikosdoulaveras/ 
 Greece                                +30 6947423178
 Date of birth: 1977-11-7         Nationality: Greece 
--------------------     ----------------------------
+-------------------     -------
 
  >  Seamless for IOT can be observable in terms of progress.  
  
