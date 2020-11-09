@@ -95,7 +95,7 @@ Athens, `2000`
 -Present proposals that are actionable
 -Project management
 -GDPR readiness
--Security as a priviledge
+-Security as a <span style="color:red">priviledge</span>
 -HCI advancements  
 
 
