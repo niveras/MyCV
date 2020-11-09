@@ -99,7 +99,7 @@ Athens, `2000`
 
 
 
-|       Accomplishments      |       Hobbies        |    web development   | 
+|       Accomplishments      |       Hobbies        |    Web Development   | 
 |----------------------------|:--------------------:|:--------------------:|
 | ERMIS AWARDS 2004 HEINEKEN |       trekking       |        joomla        | 
 |         EFFIE 2005         |       arduino        |          wp          |
