@@ -99,11 +99,11 @@ Athens, `2000`
 
 
 
-|       Accomplishments      |       Hobbies        | 
-|----------------------------|:--------------------:|
-| ERMIS AWARDS 2004 HEINEKEN |       trekking       | 
-|         EFFIE 2005         |       arduino        |
-| 1rst Social Media Study IE |        guitar        |
+|       Accomplishments      |       Hobbies        |    web development   | 
+|----------------------------|:--------------------:|:--------------------:|
+| ERMIS AWARDS 2004 HEINEKEN |       trekking       |        joomla        | 
+|         EFFIE 2005         |       arduino        |          wp          |
+| 1rst Social Media Study IE |        guitar        |   custom templates   |
 
 
 * This is a test project
