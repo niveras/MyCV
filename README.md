@@ -10,13 +10,16 @@ Nikos Doulaveras
 Occupation: IT and Privacy Project Consultant 
 -----------------------------------
 
+
+ ## >  __Seamless for IOT can be observable in terms of progress.__  
+
+
 |  __Nationality__  |             __Address__          |          __Email__          |      __Phone__    |    __Linkedin__    |        
 |-------------------|----------------------------------|:---------------------------:|:-----------------:|:------------------:|
 |      Greek       | 1 Hippocratous Str. Athens 11472 | nikos.doulaveras@gmail.com  |   +30 6947423178  |   nikosdoulaveras  | 
 
 
 
- >  Seamless for IOT can be observable in terms of progress.  
  
 
 # Experience
