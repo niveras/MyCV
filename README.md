@@ -17,7 +17,7 @@ Greece                                +30 6947423178
 Date of birth: 1977-11-7         Nationality: Greece 
 -------------------     ----------------------------
 
-|             __Address__          |         __ Email__          |     __ Phone__    |    __Linkedin__    |        
+|             __Address__          |          __Email__          |      __Phone__    |    __Linkedin__    |        
 |----------------------------------|:---------------------------:|:-----------------:|:------------------:|
 | 1 Hippocratous Str. Athens 11472 | nikos.doulaveras@gmail.com  |   +30 6947423178  |   nikosdoulaveras  | 
 
