@@ -103,7 +103,7 @@ Athens, `2000`
 |----------------------------|:-------------:|
 | ERMIS AWARDS 2004 HEINEKEN |    trekking   | 
 |         EFFIE 2005         |    arduino    |
-|                            |     guitar    |
+| 1rst Social Media Study IE |     guitar    |
 
 
 * This is a test project
