@@ -10,16 +10,9 @@ Nikos Doulaveras
 Occupation: IT and Privacy Project Consultant 
 -----------------------------------
 
--------------------     ----------------------------
-       
-      linkedin.com/in/nikosdoulaveras/ 
-Greece                                +30 6947423178
-Date of birth: 1977-11-7         Nationality: Greece 
--------------------     ----------------------------
-
-|             __Address__          |          __Email__          |      __Phone__    |    __Linkedin__    |        
-|----------------------------------|:---------------------------:|:-----------------:|:------------------:|
-| 1 Hippocratous Str. Athens 11472 | nikos.doulaveras@gmail.com  |   +30 6947423178  |   nikosdoulaveras  | 
+|  __Nationality__  |             __Address__          |          __Email__          |      __Phone__    |    __Linkedin__    |        
+|-------------------|----------------------------------|:---------------------------:|:-----------------:|:------------------:|
+|      Greek       | 1 Hippocratous Str. Athens 11472 | nikos.doulaveras@gmail.com  |   +30 6947423178  |   nikosdoulaveras  | 
 
 
 
