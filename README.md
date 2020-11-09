@@ -1,5 +1,4 @@
-pip install grip  
-grip your_markdown.md
+
 
 ![Image of Nikos](https://github.com/NikosDoulaveras/MyCV/PB250057l2l.jpg) 
 
