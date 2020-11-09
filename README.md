@@ -11,11 +11,16 @@ Occupation: IT and Privacy Project Consultant
 -----------------------------------
 
 -------------------     ----------------------------
-1 Hippocratous Str.       nikos.doulaveras@gmail.com
-Athens 11472        linkedin.com/in/nikosdoulaveras/ 
+       
+      linkedin.com/in/nikosdoulaveras/ 
 Greece                                +30 6947423178
 Date of birth: 1977-11-7         Nationality: Greece 
 -------------------     ----------------------------
+
+|             __Address__          |         __ Email__          |     __ Phone__    |    __Linkedin__    |        
+|----------------------------------|:---------------------------:|:-----------------:|:------------------:|
+| 1 Hippocratous Str. Athens 11472 | nikos.doulaveras@gmail.com  |   +30 6947423178  |   nikosdoulaveras  | 
+
 
 
  >  Seamless for IOT can be observable in terms of progress.  
