@@ -10,9 +10,9 @@ Nikos Doulaveras
 Occupation: IT and Privacy Project Consultant 
 -----------------------------------
 
-<span style="color:blue">
->  ##  ***Seamless for IOT can be observable in terms of progress.*** 
-</span>
+
+>  ##  ***<span style="color:blue">Seamless for IOT can be observable in terms of progress.</span>*** 
+
 
 
 |  __Nationality__  |             __Address__          |          __Email__          |      __Phone__    |    __Linkedin__    |        
