@@ -17,6 +17,7 @@ Greece                                +30 6947423178
 Date of birth: 1977-11-7         Nationality: Greece 
 -------------------     ----------------------------
 
+
  >  Seamless for IOT can be observable in terms of progress.  
  
 
@@ -95,6 +96,14 @@ Athens, `2000`
 -GDPR readiness
 -Security as a priviledge
 -HCI advancements  
+
+
+
+|       Accomplishments      |    Hobbies    | 
+|----------------------------|:-------------:|
+| ERMIS AWARDS 2004 HEINEKEN |    trekking   | 
+|         EFFIE 2005         |    arduino    |
+|                            |     guitar    |
 
 
 * This is a test project
