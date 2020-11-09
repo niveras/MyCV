@@ -21,9 +21,6 @@ Occupation: IT and Privacy Project Consultant
 |      Greek       | 1 Hippocratous Str. Athens 11472 | nikos.doulaveras@gmail.com  |   +30 6947423178  |   nikosdoulaveras  | 
 
 
-> Roses are [red and **bold**]{color="red"} and
-> violets are [blue]{color="blue"}.
- 
 
 # Experience
 ----------
