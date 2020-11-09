@@ -25,8 +25,7 @@ Date of birth: 1977-11-7         Nationality: Greece
 ----------
 
 **IT and Privacy Project Consultant:**
-_  Master S.A. _
-Master S.A. 
+* Master S.A.
 Neo Heracleion 
 `2018-06 - Currently`
 
