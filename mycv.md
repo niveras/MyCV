@@ -15,7 +15,8 @@ Occupation: IT and Privacy Project Consultant
 Athens 11472        linkedin.com/in/nikosdoulaveras/ 
 Greece                                +30 6947423178
 Date of birth: 1977-11-7         Nationality: Greece 
--------------------     -------
+-------------------     ----------------------------
+
 
  >  Seamless for IOT can be observable in terms of progress.  
  
@@ -24,8 +25,7 @@ Date of birth: 1977-11-7         Nationality: Greece
 ----------
 
 **IT and Privacy Project Consultant:**
-_  Master S.A. _
-Master S.A. 
+* Master S.A.
 Neo Heracleion 
 `2018-06 - Currently`
 
@@ -95,3 +95,14 @@ Athens, `2000`
 -GDPR readiness
 -Security as a priviledge
 -HCI advancements  
+
+
+
+|       Accomplishments      |       Hobbies        |    Web Development   | 
+|----------------------------|:--------------------:|:--------------------:|
+| ERMIS AWARDS 2004 HEINEKEN |       trekking       |        joomla        | 
+|         EFFIE 2005         |       arduino        |          wp          |
+| 1rst Social Media Study IE |        guitar        |   custom templates   |
+
+
+* This is a test project
